@@ -9,5 +9,5 @@ If the output doesn't show a nodejs installation, install nodejs from [here](htt
 # Installation
 1. Fork repo
 2. cd task-tracker
-3. run npm install
+3. npm install
 4. npm start
